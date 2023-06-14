@@ -1,0 +1,11 @@
+// Mendefinisikan variabel pertama
+var angka = 10;
+
+// Mendefinisikan variabel kedua
+var tulisan = "saya belajar javascript";
+
+// Menjumlahkan variabel pertama dan kedua
+var hasil = angka + " " + tulisan;
+
+// Menampilkan hasil output
+console.log(hasil);
